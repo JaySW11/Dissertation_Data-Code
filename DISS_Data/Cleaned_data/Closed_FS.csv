@@ -1,0 +1,11 @@
+﻿name,address,borough,latitude,longitude,station_id
+Belsize,"36 Lancaster Grove, London, Greater London NW3 4PB, UK",Camden,51.5454112,-0.1659082,102
+Woolwich,"24 Sunbury Street, London, Greater London SE18, UK",Greenwich,51.4921149,0.0576511,103
+Kingsland,"333 Kingsland Road, London, Greater London E8, UK",Hackney,51.5401154,-0.0766153,104
+Clerkenwell,"44 Rosebery Avenue, London, Greater London EC1R, UK",Islington,51.5231364,-0.1115217,105
+Knightsbridge,"16 Basil Street, London, Greater London SW3, UK",Kensington and Chelsea,51.4997777,-0.1615196,106
+Downham,"260 Reigate Road, Bromley, Greater London BR1 5JN, UK",Lewisham,51.4335022,0.0111861,107
+Silvertown,"303 North Woolwich Road, London, Greater London E16 2BB, UK",Newham,51.5023385,0.0261255,108
+Old Kent Road,"405 Old Kent Road, London, Greater London SE1 5PF, UK",Southwark,51.4856881,-0.0707808,109
+Bow,"64 Parnell Road, London, Greater London E3, UK",Tower Hamlets,51.5338303,-0.0266022,110
+Westminster,"4 Greycoat Place, London, Greater London SW1P 1SB, UK",Westminster,51.4965762,-0.1348238,111
